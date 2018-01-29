@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: beggar48-hasura
+  data: null
+  kubeContext: beggar48
+  name: beggar48
