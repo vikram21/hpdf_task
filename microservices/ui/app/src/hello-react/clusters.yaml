@@ -1,0 +1,7 @@
+- alias: hasura
+  config:
+    configmap: controller-conf
+    namespace: amnesia38-hasura
+  data: null
+  kubeContext: amnesia38
+  name: amnesia38
