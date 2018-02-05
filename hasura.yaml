@@ -1,0 +1,7 @@
+
+name: hpdf_task
+description: it contains all the files related to task1 
+keywords: react, props
+repoUrl: https://github.com/vikram21/hpdf_task
+name: base
+platformVersion: v0.15.23

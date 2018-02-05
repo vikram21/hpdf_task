@@ -1,0 +1,7 @@
+name: exorcist38
+alias: hasura
+kubeContext: exorcist38
+config:
+configmap: controller-conf
+namespace: hasura
+data: null
